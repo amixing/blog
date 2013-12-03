@@ -1,6 +1,6 @@
 {
         "docs"   : ["README.md", "docs","oracle","CSS","javascript"],   
-        "template"  : "tactile",
+        "template"  : "pithiness",
         "domain_alias" :  ["http://amixing.gitpress.org/"], 
         "perpage"   : 10,
         "order"  : "number",
