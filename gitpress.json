@@ -1,5 +1,19 @@
 {
         "docs"   : ["README.md", "docs"],        
-        "title"  :   "诡异喵之ami"
-        "comment : "on"
+        "title"  :   "诡异喵之ami",
+        "comment" : "on",
+        "types" : {
+                  "\\.(md||markdown)$" : "markdown",
+                  "\\.(js||css||json)$" : "code",
+                  "\\.html?$" : "html",
+                  ".*" : "text"
+        },
+      "friends"  : [
+                {
+                        "name" : "飞姐",
+                        "title": "民工的砖墙",
+                        "url"  :  "http://xufei.gitpress.org/"
+                },
+                  ]
 }
+
