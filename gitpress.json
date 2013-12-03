@@ -1,0 +1,13 @@
+{
+        "docs"      : ["posts"],        
+        "perpage"   : 5,
+        "types"     : {
+                "\\.(md||markdown)$"   : "markdown", 
+                "\\.(js||css||json)$"  : "code",
+                "\\.html?$"            : "html",
+                ".*"                   : "text"                
+        },
+        "title"  : "诡异瞄-ami",
+        "domain-alias"  : ["none"],
+        ] 
+}
