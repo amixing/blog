@@ -4,7 +4,7 @@
         "domain_alias" :  ["http://amixing.gitpress.org/"], 
         "perpage"   : 10,
         "order"  : "number",
-        "title"  :   "诡异喵之ami",
+        "title"  :   "creepy ami",
         "description" : "Ami‘s New Blog",
         "comment" : "on",
         "types" : {
