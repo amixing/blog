@@ -1,13 +1,5 @@
 {
-        "docs"      : ["README.md", "docs"],        
-        "perpage"   : 5,
-        "types"     : {
-                "\\.(md||markdown)$"   : "markdown", 
-                "\\.(js||css||json)$"  : "code",
-                "\\.html?$"            : "html",
-                ".*"                   : "text"                
-        },
-        "title"  : "诡异瞄-ami",
-        "domain-alias"  : ["none"],
-        ] 
+        "docs"   : ["README.md", "docs"],        
+        "title"  :   "诡异瞄-ami"
+
 }
