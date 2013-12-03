@@ -1,8 +1,14 @@
 {
-        "docs"   : ["README.md", "docs","oracle","CSS","javascript"],   
-        "template"  : "tactile",
+        "docs"   :  {
+                "CSS"         : "docs/css",
+                "HTML"        : "docs/html",
+                "life"    : "docs/life",
+                "other"    : "docs/other",
+                "关于我"      : "docs/README.md
+        },
+        "template"  : "pithiness",
         "domain_alias" :  ["http://amixing.gitpress.org/"], 
-        "perpage"   : 5,
+        "perpage"   : 10,
         "order"  : "number",
         "title"  :   "Creepy Ami",
         "description" : "Ami‘s New Blog",
