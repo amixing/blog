@@ -1,10 +1,10 @@
 {
         "docs"   : ["README.md", "docs","oracle","CSS","javascript"],   
-        "template"  : "phase",
+        "template"  : "tactile",
         "domain_alias" :  ["http://amixing.gitpress.org/"], 
-        "perpage"   : 10,
+        "perpage"   : 5,
         "order"  : "number",
-        "title"  :   "creepy ami",
+        "title"  :   "Creepy Ami",
         "description" : "Ami‘s New Blog",
         "comment" : "on",
         "types" : {
