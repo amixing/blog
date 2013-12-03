@@ -4,8 +4,9 @@
                 "HTML"        : "docs/html",
                 "life"    : "docs/life",
                 "other"    : "docs/other",
-                "关于我"      : "docs/README.md
+                "关于我"      : "docs/README.md"
         },
+        
         "template"  : "pithiness",
         "domain_alias" :  ["http://amixing.gitpress.org/"], 
         "perpage"   : 10,
