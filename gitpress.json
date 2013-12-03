@@ -1,6 +1,11 @@
 {
-        "docs"   : ["README.md", "docs"],        
+        "docs"   : ["README.md", "docs"],   
+        "template"  : "default",
+        "domain_alias" :  ["http://amixing.gitpress.org/"], 
+        "perpage"   : 10,
+        "order"  : "number",
         "title"  :   "诡异喵之ami",
+        "description" : "Ami‘s New Blog",
         "comment" : "on",
         "types" : {
                   "\\.(md||markdown)$" : "markdown",
@@ -16,4 +21,3 @@
                 },
                   ]
 }
-
